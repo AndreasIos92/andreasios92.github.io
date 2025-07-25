@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Test Website</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZFLYG2GTG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LZFLYG2GTG');
+  </script>
+</head>
+<body>
+  <h1>Hello, Google Analytics!</h1>
+  <p>This is my test website connected to GA4.</p>
+</body>
+</html>
